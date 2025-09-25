@@ -1,2 +1,3 @@
 # StepRacer
-A command line walking race simulation written in C 
+A command line walking race simulation game written in C 
+
